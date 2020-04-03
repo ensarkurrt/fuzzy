@@ -1,10 +1,5 @@
 # coding=utf-8
 
-# md5 32 karakter
-# random sayı + metinsel karakterin sayısal değeri + (Büyük/Küçük harf) / boşluk ise (_) + random sayının md5i
-
-#TODO:: her kelimenin başında kelimenin kaç harf olduğunu ifade eden sayı değeri olacak eğer ifade eden değer kadar karakter çıkmazsa sonucu gösterme
-
 import array
 import random
 import hashlib
